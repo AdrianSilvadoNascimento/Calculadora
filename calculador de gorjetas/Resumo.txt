@@ -1,0 +1,5 @@
+Site para calcular gorjetas
+
+Usando htm, css e javascript.
+
+Utilizando classes e Id's para fazer a estrutura, a estilazação e para fazer as chamadas de ação.
